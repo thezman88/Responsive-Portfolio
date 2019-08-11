@@ -14,7 +14,7 @@ body{
   font-family: 'calibri, sans=serif';
   font-weight: 400;
   text-transform: capitalize;
-  background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/clean_textile_@2X.png);
+  background-image: url(/Users/zacharycohen/Desktop/BootCamp-HW/Responsive-Portfolio/assets/images/clean_textile_@2X.png);
 
 
 }
@@ -146,7 +146,7 @@ hr {
  .box-1{
    height: 150px;
    width: 250px;
-   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/200-4.JPEG);
+   background-image: url(/Users/zacharycohen/Desktop/BootCamp-HW/Responsive-Portfolio/assets/images/200-4.JPEG);
    float: left;
  }
  .box-2{
@@ -154,7 +154,7 @@ hr {
    width: 250px;
    background: green;
    float: left;
-   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/200-1.jpeg);
+   background-image: url(/Users/zacharycohen/Desktop/BootCamp-HW/Responsive-Portfolio/assets/images/200-1.jpeg);
 
  }
  .box-3{
@@ -162,7 +162,7 @@ hr {
    width: 250px;
    background: green;
    float: left;
-   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/200-2.jpeg);
+   background-image: url(/Users/zacharycohen/Desktop/BootCamp-HW/Responsive-Portfolio/assets/images/200-2.jpeg);
 
  }
  .box-4{
@@ -170,7 +170,7 @@ hr {
    width: 250px;
    background: green;
    float: left;
-   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/200-3.jpeg);
+   background-image: url(/Users/zacharycohen/Desktop/BootCamp-HW/Responsive-Portfolio/assets/images/200-3.jpeg);
 
  }
  .box-5{
@@ -178,6 +178,6 @@ hr {
    width: 250px;
    background: green;
    float: left;
-   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/sports.jpeg);
+   background-image: url(/Users/zacharycohen/Desktop/BootCamp-HW/Responsive-Portfolio/assets/images/sports.jpeg);
 
  }
