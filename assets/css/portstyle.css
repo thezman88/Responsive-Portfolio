@@ -1,0 +1,75 @@
+.container{
+  height: 700px;
+  padding-left: 15px;
+  margin-bottom: 15px;
+}
+
+.box-absolute{
+  margin-top: 90px;
+  position: sticky;
+  height: 50px;
+  width: 250px;
+  background: #4aaaa5;
+  /* bottom: 400px; */
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+.box-absolute1{
+  position: sticky;
+  margin-top: 90px;
+  height: 50px;
+  width: 250px;
+  background: #4aaaa5;
+  bottom: 220px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+.box-absolute4{
+  position: sticky;
+  margin-top: 90px;
+  height: 50px;
+  width: 250px;
+  background: #4aaaa5;
+  /* bottom: 220px; */
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+.box-absolute5{
+  margin-top: 90px;
+  position: sticky;
+  height: 50px;
+  width: 250px;
+  background: #4aaaa5;
+  /* bottom: 40px; */
+
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+}
+.box-absolute:hover{
+  color: #cccccc;
+}
+.box-absolute1:hover{
+  color: #cccccc;
+}
+.box-absolute4:hover{
+  color: #cccccc;
+}
+.box-absolute5:hover{
+  color: #cccccc;
+}

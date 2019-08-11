@@ -1,0 +1,183 @@
+body{
+
+  margin: 0;
+  padding: 0;
+  display: block;
+  text-decoration: none;
+
+}
+body{
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  color: #333;
+  font-family: 'calibri, sans=serif';
+  font-weight: 400;
+  text-transform: capitalize;
+  background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/clean_textile_@2X.png);
+
+
+}
+a:link{
+  color:#777777;
+}
+a:visited{
+  color:#777777;
+}
+a:hover{
+  color:#777777;
+}
+a:focus{
+  color:#777777;
+}
+a:active{
+  color:#777777;
+}
+
+header{
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  background-color: #ffffff;
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  color: #777777;
+  border-bottom: 2px solid #dddddd;
+
+
+}
+
+
+h1{
+  color: #fff;
+}
+nav a{
+  display: table;
+  float: left;
+  padding: 25px;
+  text-decoration: none;
+
+}
+nav a:hover{
+  color: #4aaaa5;
+}
+nav{
+  float: left;
+  position: absolute;
+  left: 850px;
+
+}
+nav ul li{
+  list-style-type: none;
+}
+
+.portfolio{
+  border-left: 1px solid #dddddd;
+  border-right: 1px solid #dddddd;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+.about{
+  margin-right: -20px;
+}
+.contact{
+  margin-left: -10px;
+}
+
+.innerHeader{
+  background-color: #4aaaa5;
+  width: 17%;
+  margin-left: 14%;
+  height: 100%;
+  float: left;
+}
+
+
+
+.container{
+  background: #fff;
+  margin-left: 200px;
+  margin-right: 260px;
+  margin-bottom: 70px;
+  height: 500px;
+  color: #4aaaa5;
+  border: 1px solid #dddddd;
+  padding: 10px;
+  text-transform: none;
+}
+.container img{
+  float: left;
+  height: 200px;
+  width: 200px;
+  padding-right: 23px;
+}
+.container h1{
+  text-align: left;
+  justify-content: center;
+  padding-top: 15px;
+  padding-left: 30px;
+  color: #4aaaa5;
+}
+.container p{
+color: #777777;
+line-height: 30px;
+font-size: 17px;
+padding: 5px;
+font-family: 'calibri',sans-serif;
+}
+hr {
+  background-color: #dddddd;
+  height: 3px;
+   border: 5px;
+   width: 95%;
+   margin-left: 30px;
+ }
+ footer{
+   height: 3.99rem;
+   background: #666666;
+   width: 100%;
+   position: sticky;
+   border-top: 10px solid #4aaaa5;
+   color: #fff;
+   text-align: center;
+ }
+ .box-1{
+   height: 150px;
+   width: 250px;
+   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/200-4.JPEG);
+   float: left;
+ }
+ .box-2{
+   height: 150px;
+   width: 250px;
+   background: green;
+   float: left;
+   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/200-1.jpeg);
+
+ }
+ .box-3{
+   height: 150px;
+   width: 250px;
+   background: green;
+   float: left;
+   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/200-2.jpeg);
+
+ }
+ .box-4{
+   height: 150px;
+   width: 250px;
+   background: green;
+   float: left;
+   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/200-3.jpeg);
+
+ }
+ .box-5{
+   height: 150px;
+   width: 250px;
+   background: green;
+   float: left;
+   background-image: url(/Users/zacharycohen/Desktop/Basic-Portfolio/assets/images/sports.jpeg);
+
+ }

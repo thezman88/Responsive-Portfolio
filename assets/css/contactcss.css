@@ -1,0 +1,26 @@
+.form1{
+  color: #777777;
+  margin-left: 30px;
+  line-height: 25px;
+}
+.container{
+  height: 400px;
+  margin-bottom: 170px;
+}
+input{
+  width: 92%;
+  color: #777777;
+}
+textarea{
+  border: 1px solid #dddddd;
+}
+button{
+  height: 30px;
+  width: 85px;
+  background: #4aaaa5;
+  color: #fff;
+}
+button:hover{
+  background: #fff;
+  color: #4aaaa5;
+}
