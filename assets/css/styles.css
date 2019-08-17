@@ -257,6 +257,9 @@ nav{
  /* Positioning */
  margin: 0 0 200px;
 }
+footer{
+  width:768px;
+}
 
 }
 @media screen and (max-width: 980px) {
@@ -269,5 +272,8 @@ nav{
   }
   nav{
     padding-right: 10px;
+  }
+  footer{
+    width:980px;
   }
 }
